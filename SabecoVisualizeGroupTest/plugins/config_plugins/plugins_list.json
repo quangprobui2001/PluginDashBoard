@@ -1,0 +1,3 @@
+{
+  "plugins": ["scatter_map", "folium_map"]
+}
